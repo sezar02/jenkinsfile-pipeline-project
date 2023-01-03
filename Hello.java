@@ -1,6 +1,6 @@
 public class Hello {
 
     public static void main(String[] args) {
-        System.out.println("Hello from Java sezai selamlar");
+        System.out.println("Hello from Java sezai selamlar başardık");
     }
 }
